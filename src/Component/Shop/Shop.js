@@ -12,9 +12,8 @@ const [cart,setcart] = useState([]);
         .then(data=>setproducts(data))
     },[])
    const handleHired = product=>{
-       console.log('clicked');
-    // const newCart = [...cart,product];
-    // setcart(newCart);
+    const newCart = [...cart,product];
+    setcart(newCart);
    }
     return (
         <div>

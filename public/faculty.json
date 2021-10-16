@@ -1,47 +1,53 @@
 [
     {
        "id": 70,
+       "quantity":1,
        "name": "Abeynanda, Gayan S.",
        "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
        "faculty": "Mathematics",
        "position": "Assistant Professor",
-       "salaryt": 120000
+       "salaryt": 120
     },
     {
        "id": 71,
        "name": "Adams, James R.",
+       "quantity":1,
        "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
        "faculty": "Pharmacology",
        "position": "Professor",
-       "salaryt": 140000
+       "salaryt": 1400
     },
     {
        "id": 72,
        "name": "Albins, Mark A.",
+       "quantity":1,
        "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
        "faculty": "Marine Sciences",
        "position": "Part-Time Instructor",
-       "salaryt": 80000
+       "salaryt": 80
     },
     {
        "id": 73,
        "name": "Alexeyev, Mikhail F.",
+       "quantity":1,
        "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
        "faculty": "Physiology",
        "position": "Professor",
-       "salaryt": 110000
+       "salaryt": 1100
     },
     {
        "id": 74,
        "name": "Anastasio, Randall J.",
+       "quantity":1,
        "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
        "faculty": "Health, Kinesiology and Sport",
        "position": "Senior Instructor",
-       "salaryt": 60000
+       "salaryt": 600
     },
     {
        "id": 75,
        "name": "Andel, Todd R.",
+       "quantity":1,
        "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
        "faculty": "Computer Sciences",
        "position": "Professor",
@@ -50,6 +56,7 @@
     {
        "id": 77,
        "name": "Anderson, Jennifer A.",
+       "quantity":1,
        "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
        "faculty": "Adult Health Nursing",
        "position": "Assistant Professor",
@@ -58,6 +65,7 @@
     {
        "id": 76,
        "name": "Baker, Melanie R.",
+       "quantity":1,
        "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
        "faculty": "Marine Sciences",
        "position": "Assistant Professor",
@@ -66,6 +74,7 @@
     {
        "id": 78,
        "name": "Arrieta, Martha",
+       "quantity":1,
        "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
        "faculty": "Mathematics",
        "position": "Assistant Professor",
