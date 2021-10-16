@@ -1,6 +1,7 @@
 import React from 'react';
 import './Product.css'
 const Product = (props) => {
+    const handleAddCart = props.handleHired;
     const {name,salaryt,id,images,faculty,position,} = props.product;
 
     return (
@@ -14,7 +15,7 @@ const Product = (props) => {
             
            
            
-            <button className="btn" >Hire</button>
+            <button onClick={handleAddCart(props.product)} className="btn" >Hire</button>
            </div>
        
     );
