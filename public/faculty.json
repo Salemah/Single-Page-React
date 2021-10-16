@@ -1,0 +1,74 @@
+[
+    {
+       "id": 70,
+       "name": "Abeynanda, Gayan S.",
+       "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
+       "faculty": "Mathematics",
+       "position": "Assistant Professor",
+       "salaryt": 120000
+    },
+    {
+       "id": 71,
+       "name": "Adams, James R.",
+       "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
+       "faculty": "Pharmacology",
+       "position": "Professor",
+       "salaryt": 140000
+    },
+    {
+       "id": 72,
+       "name": "Albins, Mark A.",
+       "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
+       "faculty": "Marine Sciences",
+       "position": "Part-Time Instructor",
+       "salaryt": 80000
+    },
+    {
+       "id": 73,
+       "name": "Alexeyev, Mikhail F.",
+       "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
+       "faculty": "Physiology",
+       "position": "Professor",
+       "salaryt": 110000
+    },
+    {
+       "id": 74,
+       "name": "Anastasio, Randall J.",
+       "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
+       "faculty": "Health, Kinesiology and Sport",
+       "position": "Senior Instructor",
+       "salaryt": 60000
+    },
+    {
+       "id": 75,
+       "name": "Andel, Todd R.",
+       "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
+       "faculty": "Computer Sciences",
+       "position": "Professor",
+       "salaryt": 150000
+    },
+    {
+       "id": 77,
+       "name": "Anderson, Jennifer A.",
+       "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
+       "faculty": "Adult Health Nursing",
+       "position": "Assistant Professor",
+       "salaryt": 70000
+    },
+    {
+       "id": 76,
+       "name": "Baker, Melanie R.",
+       "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
+       "faculty": "Marine Sciences",
+       "position": "Assistant Professor",
+       "salaryt": 120000
+    },
+    {
+       "id": 78,
+       "name": "Arrieta, Martha",
+       "images": "https://media.istockphoto.com/photos/portrait-of-smiling-professor-in-the-amphitheater-picture-id1128666909?k=20&m=1128666909&s=612x612&w=0&h=Kuk_id7fnDBVBW-2SpGjId0wptbUUefyVhM7RzaPeOI=",
+       "faculty": "Mathematics",
+       "position": "Assistant Professor",
+       "salaryt": 120000
+    }
+ ]
