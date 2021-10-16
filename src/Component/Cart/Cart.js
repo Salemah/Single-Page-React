@@ -11,13 +11,12 @@ const Cart = (props) => {
         totalQuantity = totalQuantity + product.quantity;
         name = product.name;
     }
-    console.log(cart);
     return (
         <div>
             <h2>Order Summary</h2>
             <h3>Hire Faculty :{totalQuantity}</h3>
             <h6>Faculty Name:{name }</h6>
-            <h4 className="total">Total Salary:{total}</h4>
+            <h4 className="total">Total Salary:${total.toFixed(2)}</h4>
         </div>
     );
 };

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Product from '../Product/Product';
+import { addToDb } from '../Utilitis/Storage';
 import './Shop.css'
 
 const Shop = () => {
@@ -14,6 +15,8 @@ const [cart,setcart] = useState([]);
    const handleHired = product=>{
     const newCart = [...cart,product];
     setcart(newCart);
+    //save to local storage
+    addToDb(product.id);
    }
     return (
         <div>
