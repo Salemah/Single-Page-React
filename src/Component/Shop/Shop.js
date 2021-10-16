@@ -1,18 +1,34 @@
 import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Product from '../Product/Product';
-import { addToDb } from '../Utilitis/Storage';
+import { addToDb, getStoredCart } from '../Utilitis/Storage';
 import './Shop.css'
 
 const Shop = () => {
     const [produts,setproducts] = useState([]);
-const [cart,setcart] = useState([]);
+    const [cart,setcart] = useState([]);
     useEffect(()=>{
+        console.log('api called')
         fetch('faculty.json')
         .then(res =>res.json())
-        .then(data=>setproducts(data))
+        .then(data=>{
+            console.log('datat recidv')
+            setproducts(data)})
     },[])
-   const handleHired = product=>{
+  
+   useEffect(()=>{
+       console.log('another');
+    const savedCart = getStoredCart();
+    for (const id in savedCart){
+
+    const addedproduct =produts.find(product => product.id === id);
+    
+    console.log(id,addedproduct);
+
+    
+    }
+},[produts])
+const handleHired = product=>{
     const newCart = [...cart,product];
     setcart(newCart);
     //save to local storage
