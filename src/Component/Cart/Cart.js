@@ -6,8 +6,10 @@ const Cart = (props) => {
    let totalQuantity= 0;
    let name ='';
     for(const product of cart){
-      
-        total = total+product.salaryt;
+      if(!product.quantity){
+        product.quantity =1;
+      }
+        total = total+product.salaryt*product.quantity;
         totalQuantity = totalQuantity + product.quantity;
         name = product.name;
     }

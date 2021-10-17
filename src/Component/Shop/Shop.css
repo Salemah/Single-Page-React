@@ -11,3 +11,10 @@
     margin-left: 30px;
     border:1px solid black;
 }
+.search-container{
+    background-color: blanchedalmond;
+    line-height: 40px;
+}
+.search-container input{
+    width: 75%;
+}
